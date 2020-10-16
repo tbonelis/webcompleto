@@ -1,0 +1,10 @@
+/*
+Modelo de caixa
+*/
+
+.conteudo{
+    border: 1px solid red;
+    padding-top: 20px;
+    padding-right: 20px;
+    width: 150px;
+}
