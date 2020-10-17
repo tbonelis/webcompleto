@@ -1,10 +1,69 @@
 /*
 Modelo de caixa
 */
-
+/*
 .conteudo{
     border: 1px solid red;
-    padding-top: 20px;
+    /*padding-top: 20px;
     padding-right: 20px;
+    padding-bottom: 20px;*/
+
+    /*padding: top, right, bottom, left*/
+    /*padding: 20px;
+
+    /*margin: top right bot left*/
+    /*margin: 20px;
+
     width: 150px;
+}
+
+*/
+/*
+#principal{
+    border: 5px solid red;
+    background: green;
+}
+
+.conteudo {
+    background: blue;
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    float: left;
+}
+.conteudo1 {
+    background: red;
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    float: left;
+}
+.conteudo-zero {
+    background: red;
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+}
+.clear {
+    clear: both;
+}*/
+
+#noticias{
+    width: 920px;
+    border: 1px solid red;
+}
+
+.noticia{
+    background: #e5e5e5;
+    padding: 5px;
+    width: 280px;
+    margin: 7px;
+    float: left;
+}
+
+.clear{
+    clear: both;
 }
